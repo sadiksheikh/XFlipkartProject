@@ -3,6 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
+      <class name="flipkartTestClasses.TC004_VerifyAjio"/>
       <class name="flipkartTestClasses.TC001_VerifySearchTextBox"/>
       <class name="flipkartTestClasses.TC002_VerifyAmazon"/>
       <class name="flipkartTestClasses.TC003_VerifyMintra"/>
