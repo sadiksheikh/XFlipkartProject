@@ -5,6 +5,7 @@
     <classes>
       <class name="flipkartTestClasses.TC001_VerifySearchTextBox"/>
       <class name="flipkartTestClasses.TC002_VerifyAmazon"/>
+      <class name="flipkartTestClasses.TC003_VerifyMintra"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

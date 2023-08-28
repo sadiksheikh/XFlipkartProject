@@ -2,34 +2,34 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
     <line>
-      <![CDATA[Amazom Open]]>
+      <![CDATA[Browser open]]>
     </line>
     <line>
-      <![CDATA[Windows Maximize]]>
+      <![CDATA[Browser Maximize]]>
     </line>
     <line>
-      <![CDATA[Browser is Closed]]>
+      <![CDATA[Browser Close]]>
     </line>
   </reporter-output>
-  <suite started-at="2023-08-28T13:00:15 IST" name="Default suite" finished-at="2023-08-28T13:00:37 IST" duration-ms="22604">
+  <suite started-at="2023-08-28T13:23:25 IST" name="Default suite" finished-at="2023-08-28T13:23:43 IST" duration-ms="18292">
     <groups>
     </groups>
-    <test started-at="2023-08-28T13:00:15 IST" name="Default test" finished-at="2023-08-28T13:00:37 IST" duration-ms="22604">
-      <class name="flipkartTestClasses.TC002_VerifyAmazon">
-        <test-method signature="verifyAmazon()[pri:0, instance:flipkartTestClasses.TC002_VerifyAmazon@3fb1549b]" started-at="2023-08-28T13:00:15 IST" name="verifyAmazon" finished-at="2023-08-28T13:00:37 IST" duration-ms="22509" status="PASS">
+    <test started-at="2023-08-28T13:23:25 IST" name="Default test" finished-at="2023-08-28T13:23:43 IST" duration-ms="18292">
+      <class name="flipkartTestClasses.TC003_VerifyMintra">
+        <test-method signature="verifyMintra()[pri:0, instance:flipkartTestClasses.TC003_VerifyMintra@3fb1549b]" started-at="2023-08-28T13:23:25 IST" name="verifyMintra" finished-at="2023-08-28T13:23:43 IST" duration-ms="18208" status="PASS">
           <reporter-output>
             <line>
-              <![CDATA[Amazom Open]]>
+              <![CDATA[Browser open]]>
             </line>
             <line>
-              <![CDATA[Windows Maximize]]>
+              <![CDATA[Browser Maximize]]>
             </line>
             <line>
-              <![CDATA[Browser is Closed]]>
+              <![CDATA[Browser Close]]>
             </line>
           </reporter-output>
-        </test-method> <!-- verifyAmazon -->
-      </class> <!-- flipkartTestClasses.TC002_VerifyAmazon -->
+        </test-method> <!-- verifyMintra -->
+      </class> <!-- flipkartTestClasses.TC003_VerifyMintra -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
