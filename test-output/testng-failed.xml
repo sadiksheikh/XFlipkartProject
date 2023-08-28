@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="flipkartTestClasses.TC001_VerifySearchTextBox">
+      <class name="flipkartTestClasses.TC004_VerifyAjio">
         <methods>
-          <include name="verifySearchTextBox"/>
+          <include name="verifyAjio"/>
         </methods>
-      </class> <!-- flipkartTestClasses.TC001_VerifySearchTextBox -->
+      </class> <!-- flipkartTestClasses.TC004_VerifyAjio -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
